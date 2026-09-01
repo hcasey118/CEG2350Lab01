@@ -1,7 +1,7 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Hunter Casey
+- Email: casey.69@wright.edu
 
 Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Instructions.html
 
@@ -13,7 +13,7 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
+| help    | man         | Displays command documentation |
 | Get-Location | pwd    |        |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
@@ -27,11 +27,9 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 ## Part 3 - Command Line Navigation
 
 My OS is:
-- [x] Windows
-- [] Linux
-- [] Mac
+- Windows
 
-My Command Line Shell is: 
+My Command Line Shell is: Powershell
 
 ### Navigating My OS on the Command Line
 
